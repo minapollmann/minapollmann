@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Mina Pollmann"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Political Science PhD Candidate at MIT"
+  avatar           : "bio-photo.jpg"
+  bio              : "PhD Candidate in Political Science, MIT"
   location         : "Cambridge, MA"
   email            :
   links:
