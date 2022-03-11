@@ -17,6 +17,6 @@ redirect_from:
 
 
 
-\begin{center}
+<center>
 Hi
-\end{center}
+<center>
