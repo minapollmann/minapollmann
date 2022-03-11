@@ -23,7 +23,7 @@ PNW spirit, DC vibes
 <br> 
 <br> 
 
-Looking forward to being a Geopolitical Intern with Whitespace this summer, and International Security Program Predoctoral Fellow at Harvard Belfer Center for Science and International Affairs
+Looking forward to being a Geopolitical Intern with [Whitespace](https://inthewhitespace.com/) this summer, and  <br> International Security Program Predoctoral Fellow at Harvard [Belfer Center for Science and International Affairs](https://www.belfercenter.org/program/international-security) next year
 
 <br> 
 <br> 
