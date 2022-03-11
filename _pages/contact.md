@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Political Science, MIT \\
+Security Studies Program, MIT \\
 Muckley Building \\
 1 Amherst St \\
 Cambridge, MA 02139 USA
