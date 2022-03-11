@@ -2,13 +2,13 @@
 main:
 
   - title: "Interests"
-    url: /research/
+    url: /interests/
 
   - title: "Skills"
-    url: /publications/
+    url: /skills/
 
   - title: "Values"
-    url: /teaching/
+    url: /values/
 
   - title: "Resume"
     url: /data/
