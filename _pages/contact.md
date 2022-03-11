@@ -14,8 +14,8 @@ Cambridge, MA 02139 USA
 &nbsp;
 
  <p float="left">
-  <img src="https://www.trevorincerti.com/images/corruption.jpeg" width="32%" />
-  <img src="https://www.trevorincerti.com/images/revolving_door.jpeg" width="32%" />
-  <img src="https://www.trevorincerti.com/images/zoning.jpeg" width="32%" /> 
+  <img src="https://www.minapollmann.github.io/images/hiroshima.jpg" width="32%" />
+  <img src="https://www.minapollmann.github.io/images/diet.jpeg" width="32%" />
+  <img src="https://www.minapollmann.github.io/images/mit.jpg" width="32%" /> 
 </p>
 
