@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "CV"
-    url: http://tincerti.github.io/files/incerti_cv.pdf
 
-  - title: "Research"
+  - title: "Interests"
     url: /research/
 
-  - title: "Publications"
+  - title: "Skills"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Values"
     url: /teaching/
 
-  - title: "Data"
+  - title: "Resume"
     url: /data/
-
-  - title: "Collaboration"
-    url: /collaboration/
 
   - title: "Contact"
     url: /contact/
