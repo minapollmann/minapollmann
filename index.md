@@ -18,7 +18,7 @@ redirect_from:
 
 
 <center>
-PNW spirit, DC vibes, Cambridge-based
+PNW spirit, DC vibes, Cambridge living
 
 <br> 
 <br> 
