@@ -14,8 +14,8 @@ Cambridge, MA 02139 USA
 &nbsp;
 
  <p float="left">
-  <img src="/images/hiroshima.jpg" width="32%" />
-  <img src="/images/diet.jpg" width="32%" />
-  <img src="/images/mit.jpg" width="32%" /> 
+  <img src="/images/hiroshima.jpg" height=2cm width="32%" />
+  <img src="/images/mit.jpg" height=2cm width="32%" />
+  <img src="/images/diet.jpg" height=2cm width="32%" /> 
 </p>
 
