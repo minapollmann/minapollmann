@@ -18,5 +18,10 @@ redirect_from:
 
 
 <center>
-Hi
+PNW spirit, DC vibes
+
+Looking forward to being a Geopolitical Intern with Whitespace this summer, and International Security Program Predoctoral Fellow at Harvard Belfer Center for Science and International Affairs
+
+Interested in career opportunities in the private sector; federal, state, and local governments; and international organizations
+
 <center>
