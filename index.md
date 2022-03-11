@@ -16,4 +16,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a PhD Candidate at MIT studying comparative political economy. 
+
+\begin{center}
+Hi
+\end{center}
