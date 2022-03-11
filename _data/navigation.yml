@@ -11,7 +11,7 @@ main:
     url: /values/
 
   - title: "Resume"
-    url: http://tincerti.github.io/files/pollmann_generic_public_resume.pdf
+    url: http://minapollmann.github.io/files/pollmann_generic_public_resume.pdf
 
   - title: "Contact"
     url: /contact/
