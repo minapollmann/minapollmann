@@ -18,16 +18,16 @@ redirect_from:
 
 
 <center>
-PNW spirit, DC vibes, Cambridge living
+PNW spirit, DC vibes, Cambridge livin'
 
 <br> 
 <br> 
 
-Looking forward to being a Geopolitical Intern with <a href="https://inthewhitespace.com/">Whitespace</a> in summer 2022, 
+Looking forward to being a Geopolitical Intern with <a href="https://inthewhitespace.com/">Whitespace</a> in summer 2022, and 
 
 <br>
 
-an International Security Program Predoctoral Fellow at Harvard Belfer Center for Science and International Affairs in the 2022-23 academic year
+an International Security Program Predoctoral Fellow at <a href="https://www.belfercenter.org/program/international-security">Harvard Belfer Center for Science and International Affairs</a> in the 2022-23 academic year
 
 <br> 
 <br> 
