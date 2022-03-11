@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+title: "Skills"
+permalink: /skills/
 author_profile: false
 ---
 

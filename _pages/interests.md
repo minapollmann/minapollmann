@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+title: "Interests"
+permalink: /interests/
 author_profile: false
 ---
 

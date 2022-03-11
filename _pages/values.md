@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+title: "Values"
+permalink: /values/
 author_profile: false
 ---
 
