@@ -23,7 +23,7 @@ PNW spirit, DC vibes, Cambridge-based
 <br> 
 <br> 
 
-Looking forward to being a Geopolitical Intern with Whitespacein summer 2022, and 
+Looking forward to being a Geopolitical Intern with [Whitespace](https://inthewhitespace.com/) in summer 2022, and 
 
 <br>
 
