@@ -27,13 +27,15 @@ Researching the role of leaders' agency in Japan's alliances
 <br>
 <br>
 
-I want to bring my reading comprehension, written communication, and expert interview <i>skills</i> to a role 
+I want to bring my reading comprehension, written communication, and expert interview <i>skills</i>  
 <br>
-where I can do work that reflects my <i>values</i> of relevance, originality, and essentialism
+to a role where I can do work that reflects my <i>values</i> of relevance, originality, and essentialism
 <br>
-Sustainability, international security, and Japanese politics are my <i>interests</i>, but I am open to exploring any new opportunities
+Sustainability, international security, and Japanese politics are my current main <i>interests</i>, 
 <br>
-in the private sector; federal, state, and local governments; and international organizations
+but I am open to exploring any new opportunities
+<br>
+in the private sector, federal, state, and local governments, and international organizations
 
 <br> 
 <br> 
