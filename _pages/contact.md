@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "About Me"
+permalink: /about/
 author_profile: true
 ---
 
-Security Studies Program, MIT \\
-Muckley Building \\
-1 Amherst St \\
-Cambridge, MA 02139 USA
+PNW spirit, DC vibes, Cambridge livin'
 
 
 &nbsp;

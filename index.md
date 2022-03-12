@@ -18,7 +18,11 @@ redirect_from:
 
 
 <center>
-PNW spirit, DC vibes, Cambridge livin'
+Fifth year PhD Candidate in Political Science at MIT 
+
+<br>
+
+Researching the role of leaders' agency in Japan's alliances
 
 <br> 
 <br> 

@@ -13,5 +13,5 @@ main:
   - title: "Resume"
     url: http://minapollmann.github.io/files/pollmann_generic_public_resume.pdf
 
-  - title: "Contact"
-    url: /contact/
+  - title: "About Me"
+    url: /about/
