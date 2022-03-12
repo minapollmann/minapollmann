@@ -5,6 +5,8 @@ permalink: /interests/
 author_profile: false
 ---
 
+My main interests are sustainability, international security, and Japanese politics. I am open to exploring other interests as well! 
+
 ### Sustainability
 
 This is my newest field of interest. I am actively trying to learn more about sustainability in general, and specifically would like to *research* the intersection of sustainability and the US defense industry, international diplomacy, and the Asia-Pacific. 
