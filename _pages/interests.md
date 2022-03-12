@@ -17,7 +17,7 @@ I have written on international security issues for <a href="https://thediplomat
 
 ### Japanese Politics
 
-I have also been pursuing my interest in Japanese politics since Georgetown. I have been invited to participate in academic and Track 1.5 conferences in Tokyo and the United States and conducted multiple research trips to Tokyo - both before and during my PhD program. Substantively, my dissertation focuses on Japan's diplomatic history and analyzes all fourteen great power alliances that were seriously considered by Japanese leaders.
+I have also been pursuing my interest in Japanese politics since Georgetown. I have been invited to participate in academic and Track 1.5 conferences in Tokyo and the United States and conducted multiple research trips to Tokyo - both before and during my PhD program. Empirically, my dissertation focuses on Japan's diplomatic history and analyzes all fourteen great power alliances that were seriously considered by Japanese leaders.
 <br>
 I have also written on Japanese politics for <a href="https://thediplomat.com/authors/mina-pollmann/">The Diplomat</a> and various other outlets including <a href="https://www.tokyoreview.net/author/minapollmann/">The Tokyo Review</a> and <a href="https://www.csis.org/analysis/resolved-japan-has-not-done-enough-bolster-immigration">Debating Japan (CSIS)</a>.
 
