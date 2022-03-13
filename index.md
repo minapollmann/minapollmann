@@ -44,7 +44,11 @@ Looking forward to being a Geopolitical Intern with <a href="https://inthewhites
 
 <br>
 
-an International Security Program Predoctoral Fellow at Harvard <a href="https://www.belfercenter.org/program/international-security">Belfer Center for Science and International Affairs</a>
+an International Security Program Predoctoral Fellow at 
+
+<br>
+
+Harvard <a href="https://www.belfercenter.org/program/international-security">Belfer Center for Science and International Affairs</a>
 
 <br>
 
