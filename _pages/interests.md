@@ -7,7 +7,7 @@ author_profile: false
 
 My current main interests are sustainability, international security, and Japanese politics. 
 <br>
-I am open to exploring other interests as well! 
+I am open to exploring other new interests as well! 
 
 ### Sustainability
 
