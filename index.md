@@ -27,14 +27,14 @@ Researching the role of leaders' agency in Japan's alliances
 <br>
 <br>
 
-I want to bring my research & analysis, synthesis & communication, and expert interview <i>skills</i>  
+I want to bring my research & analysis, synthesis & communication, and expert interview <a href="https://www.minapollmann.com/skills/">skills</a>  
 <br>
-to a role where I can do work that reflects my <i>values</i> of relevance & impact, originality, and essentialism
+to a role where I can do work that reflects my <a href="https://www.minapollmann.com/values/">values</a> of relevance & impact, originality, and essentialism
 
 <br>
 <br>
 
-Sustainability, international security, and Japanese politics are my current main <i>interests</i>, 
+Sustainability, international security, and Japanese politics are my current main <a href="https://www.minapollmann.com/interests/">interests</a>, 
 <br>
 but I am open to exploring any new opportunities
 <br>
