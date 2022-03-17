@@ -13,7 +13,7 @@ I am open to exploring other new interests as well!
 
 This is my newest field of interest. I am actively trying to learn more about sustainability in general, including subtopics such as SRI (socially responsible investing) and ESG (environmental, social, governance) investing. One way I could make an original contribution is by leveraging my background and researching the intersection of sustainability and the US defense industry, international diplomacy, and in the Asia-Pacific. 
 
-Follow me on Twitter <a href="https://twitter.com/MKashimoto1">@MKashimoto1</a> to see what I'm reading on sustainability and related issues.
+Follow me <a href="https://twitter.com/MKashimoto1">@MKashimoto1</a> to see what I'm reading on sustainability and related issues.
 
 ### International Security
 
@@ -23,5 +23,5 @@ I have been pursuing my interest in international security since I was working o
 
 I have also been pursuing my interest in Japanese politics since my time at Georgetown and am continuing to do so at MIT. I have been invited to participate in academic and Track 1.5 conferences in Tokyo and the United States and conducted multiple research trips to Tokyo - both before and during my PhD program. Empirically, my dissertation focuses on Japan's diplomatic history and analyzes all fourteen great power alliances that were seriously considered by Japanese leaders. I have also written on Japanese politics for <a href="https://thediplomat.com/authors/mina-pollmann/">*The Diplomat*</a> and various other outlets including <a href="https://www.tokyoreview.net/author/minapollmann/">The Tokyo Review</a> and <a href="https://www.csis.org/analysis/resolved-japan-has-not-done-enough-bolster-immigration">Debating Japan (CSIS)</a>.
 
-Follow me on Twitter <a href="https://twitter.com/MinaPollmann">@MinaPollmann</a> to see what I'm reading on international security and Japanese politics. 
+Follow me <a href="https://twitter.com/MinaPollmann">@MinaPollmann</a> to see what I'm reading on international security and Japanese politics. 
 
