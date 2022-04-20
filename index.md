@@ -36,7 +36,7 @@ to a role where I can do work that reflects my <a href="https://www.minapollmann
 <br>
 <br>
 
-Sustainability, international security, and Japanese politics are my current main <a href="https://www.minapollmann.com/interests/">interests</a>, 
+Sustainability, international security, and Japanese politics are currently my <a href="https://www.minapollmann.com/interests/">interests</a>, 
 <br>
 but I am open to exploring any new opportunities in:
 <br>
