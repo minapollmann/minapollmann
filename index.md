@@ -22,7 +22,9 @@ Fifth year PhD Candidate in Political Science at MIT
 
 <br>
 
-Researching the role of leaders' agency in Japan's alliances
+Using counterfactual analysis to research
+<br>
+the role of leaders' agency in Japan's alliance formation
 
 <br>
 <br>
@@ -36,8 +38,13 @@ to a role where I can do work that reflects my <a href="https://www.minapollmann
 
 Sustainability, international security, and Japanese politics are my current main <a href="https://www.minapollmann.com/interests/">interests</a>, 
 <br>
-but I am open to exploring any new opportunities
+but I am open to exploring any new opportunities in:
 <br>
-in the private sector, federal, state, and local governments, and international organizations
+the private sector; federal, state, and local governments; and international organizations
+
+<br>
+<br>
+
+Willing to relocate to: Washington, DC; major west coast cities; and major European cities
 
 <center>
