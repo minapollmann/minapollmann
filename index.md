@@ -19,10 +19,8 @@ redirect_from:
 
 <center>
 Fifth year PhD Candidate in Political Science at MIT 
-
 <br>
-
-Using counterfactual analysis to research
+using counterfactual analysis to research
 <br>
 the role of leaders' agency in Japan's alliance formation
 
