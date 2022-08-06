@@ -5,7 +5,6 @@ permalink: /values/
 author_profile: false
 ---
 
-I value relevance & impact, originality, and essentialism in my work. 
 
 ### Relevance & Impact
 
