@@ -30,15 +30,8 @@ the role of leaders' agency in Japan's alliance formation
 I want to bring my research & analysis, synthesis & communication, and expert interview <a href="https://www.minapollmann.com/skills/">skills</a>  
 <br>
 to a role where I can do work that reflects my <a href="https://www.minapollmann.com/values/">values</a> of relevance & impact, originality, and essentialism
-
 <br>
-<br>
-
-Sustainability, international security, and Japanese politics are my main <a href="https://www.minapollmann.com/interests/">interests</a>, 
-<br>
-but I am open to exploring any new opportunities in:
-<br>
-the private sector; federal, state, and local governments; and international organizations
+and <a href="https://www.minapollmann.com/interests/">interests</a> in sustainability, international security, and Japanese politics
 
 <br>
 <br>
