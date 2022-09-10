@@ -20,9 +20,7 @@ redirect_from:
 <center>
 Predoctoral Fellow at Harvard University's Belfer Center
 <br>
-using counterfactual analysis to research
-<br>
-the role of leaders' agency in Japan's alliance formation
+researching the domestic politics of Japan's alliance formation
 
 <br>
 <br>
