@@ -5,8 +5,8 @@ main:
   - title: "Skills"
     url: /skills/
 
-  - title: "Values"
-    url: /values/
+ % - title: "Values"
+  %  url: /values/
 
   - title: "Interests"
     url: /interests/
