@@ -6,10 +6,6 @@ author_profile: false
 ---
 
 
-### Sustainability
-
-This is my newest field of interest. One way I could make an original contribution is by leveraging my background and researching the intersection of sustainability and the US defense industry, international diplomacy, and in the Asia-Pacific. 
-
 
 ### International Security
 
