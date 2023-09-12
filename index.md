@@ -21,8 +21,8 @@ redirect_from:
 
 I bring my research & analysis, synthesis & communication, and expert interview <a href="https://www.minapollmann.com/skills/">skills</a>  
 <br>
-to work that reflects my <a href="https://www.minapollmann.com/values/">values</a> of relevance & impact and originality
+to work that reflects my <a href="https://www.minapollmann.com/values/">values</a> of relevance, impact, and originality
 <br>
-and <a href="https://www.minapollmann.com/interests/">interests</a> in international security and Japanese politics
+and <a href="https://www.minapollmann.com/interests/">interests</a> in international security, US foreign policy, and Japanese politics
 
 <center>
