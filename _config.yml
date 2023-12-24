@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Mina Pollmann"
   avatar           : "/images/mina_profile.jpg"
-  bio              : "PhD in Political Science, MIT"
-  location         : "Arlington and Amsterdam"
-  email            : "minapoll@mit.edu"
+  bio              : "Associate Political Scientist, RAND Corporation"
+  location         : "Washington, DC"
+  email            : "mep64@georgetown.edu"
 
   links:
     - label: "Email"
