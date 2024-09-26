@@ -2,15 +2,6 @@
 main:
 
 
-  - title: "Skills"
-    url: /skills/
-
-  - title: "Values"
-    url: /values/
-
-  - title: "Interests"
-    url: /interests/
-
   - title: "CV"
     url: http://minapollmann.github.io/files/pollmann_generic_public_resume.pdf
 
