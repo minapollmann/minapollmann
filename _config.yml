@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Mina Pollmann"
   avatar           : "/images/mina_profile.jpg"
-  bio              : "Associate Political Scientist, RAND"
+  bio              : 
   location         : "Washington, DC"
   email            : "mep64@georgetown.edu"
 
