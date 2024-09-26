@@ -105,8 +105,8 @@ author:
   name             : "Mina Pollmann"
   avatar           : "/images/mina_profile.jpg"
   bio              : 
-  location         : "Washington, DC"
-  email            : "mep64@georgetown.edu"
+  location         : 
+  email            : 
 
   links:
     - label: "Email"
